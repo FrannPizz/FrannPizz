@@ -23,4 +23,4 @@ Char-level LLM based on a Transformer decoder-only architecture, with voice and 
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Francesco%20Pizzato-blue?style=flat&logo=linkedin)](https://linkedin.com/in/francesco-pizzato)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Francesco%20Pizzato-blue?style=flat&logo=linkedin)](https://linkedin.com/in/pizzato-francesco)
