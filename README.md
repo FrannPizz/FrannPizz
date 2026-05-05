@@ -9,7 +9,7 @@
 ## Tech Stack
 
 - **Languages:** Python · C++ · Java
-- **AI/ML:** PyTorch · OpenCV · scikit-learn
+- **AI/ML:** PyTorch · OpenCV
 - **Tools:** Apache Spark · Git · Gradio
 
 ---
